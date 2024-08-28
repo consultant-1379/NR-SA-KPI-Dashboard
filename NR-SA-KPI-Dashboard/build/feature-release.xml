@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+    <product-id>CNA 403 3851</product-id>
+    <feature-name>NR SA KPI Dashboard</feature-name>
+    <release>23.2</release>
+    <system-area>5g</system-area>
+    <datasource-guid>0e81554f-ed55-498d-836c-d5f8ddbcfe7d</datasource-guid>
+    <ericsson-library>true</ericsson-library>
+</feature>
